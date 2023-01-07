@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshj6301
+- 👋 Hi, I’m Harshvardhan Jadhav
 - 👀 I’m interested in ... Artificial Intelligence, Data Science and ML
 - 🌱 I’m currently learning DS, ML, DL, AI.
 - 💞️ I’m looking to collaborate on ... DS or ML projects
